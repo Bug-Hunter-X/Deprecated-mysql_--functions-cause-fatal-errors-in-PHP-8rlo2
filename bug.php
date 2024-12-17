@@ -1,0 +1,1 @@
+This code uses the `mysql_*` functions, which are deprecated and have been removed in PHP 7. The code should be updated to use MySQLi or PDO for database interaction.  Failing to do so results in a fatal error and prevents the script from executing.  The error will be similar to "Call to undefined function mysql_connect()"
